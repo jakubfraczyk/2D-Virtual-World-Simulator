@@ -1,0 +1,20 @@
+20 20 20
+Fox 3 7 17 19 20
+Wolf 9 5 6 4 20
+Wolf 9 5 12 7 20
+Human 5 4 11 2 20 -1 0 0
+Sheep 4 4 12 6 20
+Turtle 2 1 4 13 20
+Guarana 0 0 9 7 20
+Hogweed 10 0 11 11 20
+Grass 0 0 0 0 20
+Belladonna 99 0 16 5 20
+Grass 0 0 19 19 20
+SowThistle 0 0 4 12 20
+Guarana 0 0 10 8 18
+SowThistle 0 0 3 11 11
+Guarana 0 0 10 7 5
+Guarana 0 0 10 9 4
+SowThistle 0 0 5 11 2
+Guarana 0 0 9 6 1
+SowThistle 0 0 3 10 1
